@@ -9,6 +9,7 @@ const HatsPage = () => (
   </div>
 );
 
+
 function App() {
   return (
     <Switch>
